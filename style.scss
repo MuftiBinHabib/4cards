@@ -1,0 +1,171 @@
+$c1: hsl(0, 78%, 62%);
+$c2: hsl(180, 62%, 55%);
+$c3: hsl(34, 97%, 64%);
+$c4: hsl(212, 86%, 64%);
+$c5: hsl(234, 12%, 34%);
+$c6: hsl(229, 6%, 66%);
+$c7: hsl(0, 0%, 98%);
+$f1: "Poppins", serif;
+$fw1 : 200;
+$fw2 : 400;
+$fw3 : 600;
+$bs: 0px 13px 20px 0px rgba(0,0,0,0.54);
+
+.classheader{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+
+    h1{
+        font-family: $f1;
+        font-weight: 200;
+        width: 179%;
+    }
+    h2{
+        font-family: $f1;
+        font-weight: 600;
+        width: 159%;
+    }
+    p{
+        font-family: $f1;
+        text-align: center;
+        width: 167%;
+        font-weight: $fw1;
+        
+        
+    }
+}
+
+
+
+
+
+main{
+    position: relative;
+    margin-top: 87px;
+}
+
+footer{
+    p{
+        position: absolute;
+        bottom: -751px;
+    }
+    
+}
+
+.card1{
+    margin-left: 20px;
+    border-top:  $c2;
+    box-shadow: $bs;
+    width: 316px;
+    border-top: 4px solid $c2;
+    border-radius: 15px;
+
+    h5{
+        padding-left: 10px;
+        padding-top: 40px;
+        font-family: $f1;
+        font-weight: 600;
+
+    }
+    p{
+        padding-left: 10px;
+        padding-top: 10px;
+        font-family: $f1;
+        font-weight: 400;  
+    }
+    img{
+        padding-left: 72%;
+        padding-bottom: 20px;
+    }
+}
+
+.card2{
+    margin-left: 20px;
+    margin-top: 20px;
+    
+    box-shadow: $bs;
+    width: 316px;
+    border-top: 4px solid $c1;
+    border-radius: 15px;
+
+    h5{
+        padding-left: 10px;
+        padding-top: 40px;
+        font-family: $f1;
+        font-weight: 600;
+
+    }
+    p{
+        padding-left: 10px;
+        padding-top: 10px;
+        font-family: $f1;
+        font-weight: 400;  
+    }
+    img{
+        padding-left: 72%;
+        padding-bottom: 20px;
+    }
+}
+
+.card3{
+    margin-left: 20px;
+    margin-top: 20px;
+    box-shadow: $bs;
+    width: 316px;
+    border-top: 4px solid $c4;
+    border-radius: 15px;
+
+    h5{
+        padding-left: 10px;
+        padding-top: 40px;
+        font-family: $f1;
+        font-weight: 600;
+
+    }
+    p{
+        padding-left: 10px;
+        padding-top: 10px;
+        font-family: $f1;
+        font-weight: 400;  
+    }
+    img{
+        padding-left: 72%;
+        padding-bottom: 20px;
+    }
+}
+
+.card4{
+    margin-top: 20px;
+    margin-left: 20px;
+    
+    box-shadow: $bs;
+    width: 316px;
+    border-top: 4px solid $c3;
+    border-radius: 15px;
+
+    h5{
+        padding-left: 10px;
+        padding-top: 40px;
+        font-family: $f1;
+        font-weight: 600;
+
+    }
+    p{
+        padding-left: 10px;
+        padding-top: 10px;
+        font-family: $f1;
+        font-weight: 400;  
+    }
+    img{
+        padding-left: 72%;
+        padding-bottom: 20px;
+    }
+}
+
+
+
+

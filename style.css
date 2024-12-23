@@ -1,0 +1,134 @@
+.classheader {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+.classheader h1 {
+  font-family: "Poppins", serif;
+  font-weight: 200;
+  width: 179%;
+}
+.classheader h2 {
+  font-family: "Poppins", serif;
+  font-weight: 600;
+  width: 159%;
+}
+.classheader p {
+  font-family: "Poppins", serif;
+  text-align: center;
+  width: 167%;
+  font-weight: 200;
+}
+
+main {
+  position: relative;
+  margin-top: 87px;
+}
+
+footer p {
+  position: absolute;
+  bottom: -751px;
+}
+
+.card1 {
+  margin-left: 20px;
+  border-top: hsl(180, 62%, 55%);
+  box-shadow: 0px 13px 20px 0px rgba(0, 0, 0, 0.54);
+  width: 316px;
+  border-top: 4px solid hsl(180, 62%, 55%);
+  border-radius: 15px;
+}
+.card1 h5 {
+  padding-left: 10px;
+  padding-top: 40px;
+  font-family: "Poppins", serif;
+  font-weight: 600;
+}
+.card1 p {
+  padding-left: 10px;
+  padding-top: 10px;
+  font-family: "Poppins", serif;
+  font-weight: 400;
+}
+.card1 img {
+  padding-left: 72%;
+  padding-bottom: 20px;
+}
+
+.card2 {
+  margin-left: 20px;
+  margin-top: 20px;
+  box-shadow: 0px 13px 20px 0px rgba(0, 0, 0, 0.54);
+  width: 316px;
+  border-top: 4px solid hsl(0, 78%, 62%);
+  border-radius: 15px;
+}
+.card2 h5 {
+  padding-left: 10px;
+  padding-top: 40px;
+  font-family: "Poppins", serif;
+  font-weight: 600;
+}
+.card2 p {
+  padding-left: 10px;
+  padding-top: 10px;
+  font-family: "Poppins", serif;
+  font-weight: 400;
+}
+.card2 img {
+  padding-left: 72%;
+  padding-bottom: 20px;
+}
+
+.card3 {
+  margin-left: 20px;
+  margin-top: 20px;
+  box-shadow: 0px 13px 20px 0px rgba(0, 0, 0, 0.54);
+  width: 316px;
+  border-top: 4px solid hsl(212, 86%, 64%);
+  border-radius: 15px;
+}
+.card3 h5 {
+  padding-left: 10px;
+  padding-top: 40px;
+  font-family: "Poppins", serif;
+  font-weight: 600;
+}
+.card3 p {
+  padding-left: 10px;
+  padding-top: 10px;
+  font-family: "Poppins", serif;
+  font-weight: 400;
+}
+.card3 img {
+  padding-left: 72%;
+  padding-bottom: 20px;
+}
+
+.card4 {
+  margin-top: 20px;
+  margin-left: 20px;
+  box-shadow: 0px 13px 20px 0px rgba(0, 0, 0, 0.54);
+  width: 316px;
+  border-top: 4px solid hsl(34, 97%, 64%);
+  border-radius: 15px;
+}
+.card4 h5 {
+  padding-left: 10px;
+  padding-top: 40px;
+  font-family: "Poppins", serif;
+  font-weight: 600;
+}
+.card4 p {
+  padding-left: 10px;
+  padding-top: 10px;
+  font-family: "Poppins", serif;
+  font-weight: 400;
+}
+.card4 img {
+  padding-left: 72%;
+  padding-bottom: 20px;
+}/*# sourceMappingURL=style.css.map */
